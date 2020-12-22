@@ -8,7 +8,8 @@ If a gif search is performed, a spinner/activity indicator is displayed on scree
 To Do:-
 
 Upon selection of a gif from the table view, a new view controller should display the selected gif
-Code clean up remaining
+Code clean up remaining. Items loading process is taking too long, minimize that time.
 Add a favorite's button and display the favorited items in a new view controller
 Provide an option to unfavorite the item
 Embed both view controllers in a tab bar controller
+
